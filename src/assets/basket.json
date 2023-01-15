@@ -1,0 +1,23 @@
+[
+  {
+    "imageUrl": "https://18.img.avito.st/image/1/1.b6olo7ayw0MTFEFOd_ZEgssAw0WFBsE.3zwxH9EOya5ZWXPcItU3IpQ5z_POAkKYGmKaQtDjd50",
+    "title": "Квартира, 45 м², 1/14 эт.",
+    "price": 30000,
+    "type": "habitable",
+    "id": "1"
+  },
+  {
+    "imageUrl": "https://57.img.avito.st/image/1/1.aKc_qbayxE4JHkZDY-wekPAKxEifDMY.lqJZE2-zMwqHcweUgYBDeDCmepXZUUIVKMtWo2HDAMM",
+    "title": "2-к. квартира, 56 м², 3/14 эт.",
+    "price": 6000,
+    "type": "habitable",
+    "id": "2"
+  },
+  {
+    "imageUrl": "https://39.img.avito.st/image/1/1.HtnFiraysjDzI3A19ZJq7gopsjZlL7A.R-vT7N6cZYCwP6SOAz6qUb0e1VJ1ksnms9nJi9MiBrY",
+    "title": "2-к. квартира, 57,5 м², 5/16 эт.",
+    "price": 40000,
+    "type": "habitable",
+    "id": "3"
+  }
+]

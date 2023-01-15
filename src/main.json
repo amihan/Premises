@@ -1,0 +1,203 @@
+[
+  {
+    "imageUrl": "https://18.img.avito.st/image/1/1.b6olo7ayw0MTFEFOd_ZEgssAw0WFBsE.3zwxH9EOya5ZWXPcItU3IpQ5z_POAkKYGmKaQtDjd50",
+    "title": "Квартира, 45 м², 1/14 эт.",
+    "price": 30000,
+    "type": "habitable",
+    "id": "1",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://57.img.avito.st/image/1/1.aKc_qbayxE4JHkZDY-wekPAKxEifDMY.lqJZE2-zMwqHcweUgYBDeDCmepXZUUIVKMtWo2HDAMM",
+    "title": "2-к. квартира, 56 м², 3/14 эт.",
+    "price": 6000,
+    "type": "habitable",
+    "id": "2",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://39.img.avito.st/image/1/1.HtnFiraysjDzI3A19ZJq7gopsjZlL7A.R-vT7N6cZYCwP6SOAz6qUb0e1VJ1ksnms9nJi9MiBrY",
+    "title": "2-к. квартира, 57,5 м², 5/16 эт.",
+    "price": 40000,
+    "type": "habitable",
+    "id": "3",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://64.img.avito.st/image/1/1.4csshbayTSIaMs8vYoKPq-8mTSSMIE8.TR32Sxcfu0F1CimJL7DaIoX6aW0GXPBiWDyrHml0wbM",
+    "title": "1-к. квартира, 18 м², 1/5 эт.",
+    "price": 65000,
+    "type": "habitable",
+    "id": "4",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://77.img.avito.st/image/1/1.EB5EhbayvPdyLH7yaL0zRtQmvPHkIL4.WDcWUAT6V8Ps6dD5WyalfT0krVvRV9NfR4vDWfMaXFo",
+    "title": "1-к. квартира, 41 м², 2/16 эт.",
+    "price": 55000,
+    "type": "habitable",
+    "id": "5",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://79.img.avito.st/image/1/1.Eibrqrayvs_dA3zKw45xX3sJvslLD7w.fwSzJ0rRWBtH2MMcBhg3thGl7EQvQq9m-yRfX4zfaxk",
+    "title": "Апартаменты-студия, 30 м², 4/14 эт.",
+    "price": 29000,
+    "type": "apartments",
+    "id": "6",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://43.img.avito.st/image/1/1.llMHFrayOroxv_i_JwS0LPu1Orynszg.RHtQPUt60VYyaH-kiRgpu7NdZPcZnWfWz7Q_Lyncp9A",
+    "title": "Апартаменты-студия, 50 м², 5/14 эт.",
+    "price": 79000,
+    "type": "apartments",
+    "id": "7",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://65.img.avito.st/image/1/1.ONrmFraylDPQv1Y2mkp1sna1lDVGs5Y.UMVXJmTRb1X3fwzejCtpQgObNzw38ZZUmCyDqrlQJ9Y",
+    "title": "Апартаменты-студия, 90 м², 1/14 эт.",
+    "price": 88000,
+    "type": "apartments",
+    "id": "8",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://59.img.avito.st/image/1/1.MuJi5bayngtUUhwGCsVRgIBGng3CQJw.4lwn9-IuQ07yRZ0uQfTcU3Fdmbi9Jp6Ss8bs81dgdD4",
+    "title": "Апартаменты-студия, 40 м², 8/14 эт.",
+    "price": 43000,
+    "type": "apartments",
+    "id": "9",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://65.img.avito.st/image/1/1.GMKflbaytCupPHYuo9E6q0E2tC0_MLY.ItlAeKiTsY3WqW22BcRPsHxKu3FVLbn6ganAlISAap4",
+    "title": "Апартаменты-студия, 43 м², 2/14 эт.",
+    "price": 41000,
+    "type": "apartments",
+    "id": "10",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://19.img.avito.st/image/1/1.CvTttbayph3bAiQQ9eVmizkWphtNEKQ.d3nXfBvgTXoMA1q8_kCNah7jfKphybP6jfc8dFZ1Eik",
+    "title": "Офис, 20.2 м²",
+    "price": 10000,
+    "type": "office",
+    "id": "11",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://94.img.avito.st/image/1/1.e-q8DLay1wOKpRUGxjk3yzev1wUcqdU.5qC2OGhP7yDTboC6uh9PIeHc9YwX2BkEan8Cypiiyu0",
+    "title": "Офис, 100 м²",
+    "price": 46000,
+    "type": "office",
+    "id": "12",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://03.img.avito.st/image/1/1.cm7hI7ay3ofXihyCiRY-T2qA3oFBhtw.wxIYs1XC9WVjBEPqL15sLFKZRNTLOM_IUfwtoZVup6E",
+    "title": "Офис, 50 м²",
+    "price": 74000,
+    "type": "office",
+    "id": "13",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://82.img.avito.st/image/1/1.BxhLIbayq_F9iGn0SXEWI46Cq_frhKk.7y8k2dPIPgVRu9LXH15BE5wbeMg4bBHA45OB4gsEPk0",
+    "title": "Офис, 20 м²",
+    "price": 68000,
+    "type": "office",
+    "id": "14",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://41.img.avito.st/image/1/1.bAxNpraywOV7DwLgGfd9N4gFwOPtA8I.7qIFr6r3ZeaVsvsN6G_Fdr0P37NZgcWiKwJAxczlCW0",
+    "title": "Офис, 30 м²",
+    "price": 14000,
+    "type": "office",
+    "id": "15",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://23.img.avito.st/image/1/1.4ovRmrayTmLnM4xnmYG2zwk5TmRxP0w.rzCdVBtwXgxuK7leMTHi7M2ylIOyXS-nhuBd7nRi0xs",
+    "title": "Гараж, 19 м²",
+    "price": 91000,
+    "type": "garage",
+    "id": "16",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://06.img.avito.st/image/1/1.y4GMCLayZ2i6oaVtlguikE2rZ24srWU.FAED-J1GduxpIztlTA2-UeWnj6_LrvWxztyX5Wmr_pU",
+    "title": "Гараж, 30 м²",
+    "price": 2000,
+    "type": "garage",
+    "id": "17",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://80.img.avito.st/image/1/1.-Reph7ayVf6fLpf717DRV2QkVfgJIlc.7jhE1bP8CAdsIr0KnD3W_CyQodhRTgMFpneUKMoHZTU",
+    "title": "Гараж, 18 м²",
+    "price": 14000,
+    "type": "garage",
+    "id": "18",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://26.img.avito.st/image/1/1.7-PZIbayQwrviIEPi2aAuzWCQwx5hEE.mdSWPajv7woFRFYULfFIGvmuD1ojZSJXNo3NsTbgfJc",
+    "title": "Гараж, 19 м²",
+    "price": 74000,
+    "type": "garage",
+    "id": "19",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  },
+  {
+    "imageUrl": "https://59.img.avito.st/image/1/1.YjwWjbayztUgOkzYXrBuNvwuztO2KMw.d495UNiOKgOpsyXImHVF--1r8k--8BRJyGors2gHGpc",
+    "title": "Гараж, 18 м²",
+    "price": 3000,
+    "type": "garage",
+    "id": "20",
+    "technicalSupport": ["Иванов Иван Иванович"],
+    "householdSupport": ["Душкова Антонина Сергеевна"],
+    "booked": false
+  }
+]
+
